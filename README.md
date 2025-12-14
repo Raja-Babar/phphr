@@ -1,16 +1,24 @@
 # PHPHR – Open Source HR Management Software
 
-PHPHR is a Human Resource Management (HRM) platform available in two
-deployment models:
+PHPHR is a Human Resource Management (HRM) platform available in two flexible
+deployment models, enabling organizations to choose the approach that best
+fits their operational needs, data policies, and long-term growth strategy.
 
-• PHPHR Open-Source – A free, self-hosted edition designed for
-  organizations that want full control over their hosting environment
-  and HR data.
+• **PHPHR Open-Source** – A free, self-hosted edition designed for startups,
+small to mid-sized businesses, and organizations that prefer full control
+over their hosting environment, infrastructure, and HR data. This edition
+provides essential HR capabilities such as employee management, attendance
+tracking, leave management, payroll processing, and an HR dashboard, while
+allowing complete customization and on-premise deployment.
 
-• PHPHR Cloud – A fully managed, enterprise-grade HRMS that provides
-  automatic updates, enhanced security, scalability, backups, and
-  dedicated support, allowing organizations to focus on HR operations
-  without managing servers or infrastructure.
+• **PHPHR Cloud** – A fully managed, enterprise-grade HRMS built for growing
+and large organizations that require scalability, reliability, and minimal
+technical overhead. PHPHR Cloud includes secure cloud hosting, automatic
+updates, regular backups, performance optimization, enhanced security
+standards, and dedicated support. It enables HR teams to focus entirely on
+workforce operations and strategic initiatives without the burden of server
+management or infrastructure maintenance.
+
 
 
 ---
