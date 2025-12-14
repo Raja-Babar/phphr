@@ -1,8 +1,13 @@
 <p align="center">
   <a href="https://www.phphr.com" target="_blank">
-    <img src="[https://www.phphr.com/wp-content/uploads/logo.png](https://www.phphr.com/wp-content/uploads/logo.png)" alt="PHPHR Logo" width="160">
+    <img 
+      src="https://raw.githubusercontent.com/phphrm/phphr/main/public/media/logo.png"
+      alt="PHPHR Logo"
+      width="160"
+    >
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0.0-blue" />
