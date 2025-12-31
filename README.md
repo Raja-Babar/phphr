@@ -169,7 +169,7 @@ provided that the original copyright notice is preserved.
 
 ## 📸 Screenshots
 
-### Dashboard
+### Login
 ![PHPHR Dashboard](screenshots/login.png)
 
 
